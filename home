@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Mechanical Keyboards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mechanical Keyboards</h1>
+        <nav>
+            <a href="https://keyboard-natalietran.w3spaces.com/">Home | </a>
+            <a href="https://keyboard-natalietran.w3spaces.com/switches.html">Switches | </a>
+            <a href="https://keyboard-natalietran.w3spaces.com/keycaps.html">Keycaps | </a>
+            <a href="https://keyboard-natalietran.w3spaces.com/size.html">Size</a>
+
+        </nav>
+    </header>
+    <main>
+        <h2 style="font-size: medium; text-transform: uppercase;"><b>What is a mechanical keyboard?</b></h2>
+        <p>A mechanical keyboard uses individual mechanical key switches for each key, rather than a rubber dome or membrane that is found in most traditional keyboards. Mechanical switches provide a tactile and audible feedback, as well as a more satisfying typing experience. Mechanical keyboards have several advantages over traditional keyboards, including greater durability, improved typing speed and accuracy, and the ability to customize keycaps and switches. They are popular among gamers, typists, and anyone who values the feel and functionality of a keyboard. They can be more expensive than traditional keyboards and require more maintenance to keep them in good condition.</p>
+        <h3 style="font-size: medium; text-transform: uppercase;"><b>Parts Of A Mechanical Keyboard</b></h3>
+    </main>
+    <footer>
+        &copy;2023 Natalie Tran
+    </footer>
+
+</body>
+</html>
